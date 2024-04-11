@@ -1,2 +1,2 @@
-# ru.arustg.dinorunner
+# Dinorunner
 Famous Browser Game for Aurora OS
