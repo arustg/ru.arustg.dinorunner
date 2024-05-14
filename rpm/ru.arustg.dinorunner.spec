@@ -1,7 +1,7 @@
 Name:       ru.arustg.dinorunner
 Summary:    Famous Browser Game for Aurora OS
 Version:    1.0
-Release:    1
+Release:    2
 License:    BSD-3-Clause
 URL:        https://auroraos.ru
 Source0:    %{name}-%{version}.tar.bz2
