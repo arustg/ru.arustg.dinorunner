@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.arustg.dino
+Exec=/usr/bin/ru.arustg.dino
+Name=Dino
+Name[ru]=Дино
+
+[X-Application]
+Permissions=WebView
+OrganizationName=ru.arustg
+ApplicationName=dino
+ExecDBus=/usr/bin/ru.arustg.dino
