@@ -1,7 +1,7 @@
 Name:       ru.arustg.dino
 Summary:    Famous Browser Game
 Version:    1.1
-Release:    2
+Release:    3
 License:    BSD-3-Clause
 URL:        https://auroraos.ru
 Source0:    %{name}-%{version}.tar.bz2
