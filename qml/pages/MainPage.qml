@@ -6,20 +6,19 @@ Page {
     objectName: "mainPage"
     allowedOrientations: Orientation.All
 
-    SilicaFlickable {
-        anchors.fill: parent
-
-        PushUpMenu {
-            MenuItem {
-                    text: qsTr("About")
-                    onClicked: pageStack.animatorPush(Qt.resolvedUrl("AboutPage.qml"))}
-        }
-    }
-
     PageHeader {
         objectName: "pageHeader"
-        title: qsTr("Dino")
+        extraContent.children: [
+            IconButton {
+                objectName: "aboutButton"
+                icon.source: "image://theme/icon-m-enter-next"
+                 anchors.horizontalCenter: parent.right
+
+                onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
+            }
+        ]
     }
+
     Rectangle {
         width: 720
         height: 1000
