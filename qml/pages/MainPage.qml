@@ -6,7 +6,7 @@ Page {
     objectName: "mainPage"
     allowedOrientations: Orientation.All
 
-PageHeader {
+    PageHeader {
         objectName: "pageHeader"
         extraContent.children: [
             IconButton {

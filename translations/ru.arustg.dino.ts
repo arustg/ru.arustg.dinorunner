@@ -44,17 +44,4 @@
         <translation type="unfinished"></translation>
     </message>
 </context>
-<context>
-    <name>MainPage</name>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="21"/>
-        <source>Dino</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="14"/>
-        <source>About</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
 </TS>

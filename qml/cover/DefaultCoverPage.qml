@@ -6,7 +6,7 @@ CoverBackground {
 
         Image {
             anchors.fill: parent
-            fillMode: Image.PreserveAspectFit
+            fillMode: Image.Stretch
             opacity: 0.2
             source: "/usr/share/ru.arustg.dino/offline/assets/cover.png"
         }

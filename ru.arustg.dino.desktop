@@ -7,7 +7,7 @@ Name=Dino
 Name[ru]=Дино
 
 [X-Application]
-Permissions=WebView
+Permissions=WebView;Audio
 OrganizationName=ru.arustg
 ApplicationName=dino
 ExecDBus=/usr/bin/ru.arustg.dino

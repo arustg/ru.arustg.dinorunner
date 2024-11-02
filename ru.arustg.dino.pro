@@ -23,9 +23,7 @@ DISTFILES += \
     offline/sounds/button-press.mp3 \
     offline/sounds/hit.mp3 \
     offline/sounds/score-reached.mp3 \
-    offline/www/index.css \
     offline/www/index.html \
-    offline/www/index.js \
     rpm/ru.arustg.dino.spec \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172

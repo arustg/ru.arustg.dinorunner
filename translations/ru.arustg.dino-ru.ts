@@ -21,7 +21,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>#licenseText</source>
-        <translation>&lt;p&gt;&lt;i&gt;Copyright (C) 2013 The Chromium Authors. Copyright (C) 2024 arustg&lt;/i&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;i&gt;Copyright (C) 2017 The Chromium Authors Copyright (C) 2024 arustg&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:&lt;/p&gt;
 &lt;ol&gt;
         &lt;li&gt;Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.&lt;/li&gt;
@@ -42,19 +42,6 @@
         <location filename="../qml/cover/DefaultCoverPage.qml" line="22"/>
         <source>I&apos;m sleeping</source>
         <translation>Уснул..</translation>
-    </message>
-</context>
-<context>
-    <name>MainPage</name>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="14"/>
-        <source>About</source>
-        <translation>Ещё</translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/MainPage.qml" line="21"/>
-        <source>Dino</source>
-        <translation>Дино</translation>
     </message>
 </context>
 </TS>
