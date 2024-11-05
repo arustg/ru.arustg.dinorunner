@@ -21,7 +21,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>#licenseText</source>
-        <translation>&lt;p&gt;&lt;i&gt;Copyright (C) 2013 The Chromium Authors. Copyright (C) 2024 arustg&lt;/i&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;i&gt;Copyright (C) 2017 The Chromium Authors. Copyright (C) 2024 arustg.&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:&lt;/p&gt;
 &lt;ol&gt;
 	&lt;li&gt;Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.&lt;/li&gt;
@@ -29,19 +29,6 @@
 	&lt;li&gt;Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&lt;/p&gt;</translation>
-    </message>
-</context>
-<context>
-    <name>DefaultCoverPage</name>
-    <message>
-        <location filename="../qml/cover/DefaultCoverPage.qml" line="22"/>
-        <source>Don&apos;t stop!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/cover/DefaultCoverPage.qml" line="22"/>
-        <source>I&apos;m sleeping</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
