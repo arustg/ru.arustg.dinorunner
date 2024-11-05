@@ -9,29 +9,21 @@ CoverBackground {
             fillMode: Image.Stretch
             opacity: 0.2
             source: "/usr/share/ru.arustg.dino/offline/assets/cover.png"
-        }
 
+            SequentialAnimation on scale {
+                running: cover.status == Cover.Active
+                PropertyAnimation {
+                    duration: 300
+                    from: 0; to: 1
+                }
+
+            }
+
+        }
 
         Cover {
             id: cover
             anchors.fill: parent
             transparent: true
-
-            Label {
-                anchors.centerIn: parent
-                text: cover.status == Cover.Active ? qsTr("Don't stop!") : qsTr("I'm sleeping")
-
-                SequentialAnimation on rotation {
-                    running: cover.status == Cover.Active
-                    loops: Animation.Infinite
-
-                    RotationAnimation {
-                        duration: 1000
-                        from: 0; to: 360
-                    }
-
-                    PauseAnimation { duration: 30 * 1000 }
-                }
-            }
-        }
     }
+}
