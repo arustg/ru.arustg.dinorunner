@@ -4,22 +4,22 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="20"/>
+        <location filename="../qml/pages/AboutPage.qml" line="19"/>
         <source>About Application</source>
         <translation>Об игре</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="30"/>
+        <location filename="../qml/pages/AboutPage.qml" line="29"/>
         <source>#descriptionText</source>
-        <translation>&lt;p&gt;Оффлайн адаптация известной браузерной игры для ОС Аврора без рекламы&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Оффлайн адаптация известной браузерной игры для ОС Аврора без рекламы.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="35"/>
+        <location filename="../qml/pages/AboutPage.qml" line="34"/>
         <source>3-Clause BSD License</source>
         <translation>Лицензия 3-Clause BSD</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="45"/>
+        <location filename="../qml/pages/AboutPage.qml" line="44"/>
         <source>#licenseText</source>
         <translation>&lt;p&gt;&lt;i&gt;Copyright (C) 2017 The Chromium Authors. Copyright (C) 2024 arustg.&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:&lt;/p&gt;

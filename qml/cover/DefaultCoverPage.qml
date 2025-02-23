@@ -4,6 +4,11 @@ import Sailfish.Silica 1.0
 CoverBackground {
     objectName: "defaultCover"
 
+    Cover {
+        id: cover
+        anchors.fill: parent
+        transparent: true
+
         Image {
             anchors.fill: parent
             fillMode: Image.Stretch
@@ -20,10 +25,6 @@ CoverBackground {
             }
 
         }
-
-        Cover {
-            id: cover
-            anchors.fill: parent
-            transparent: true
     }
+
 }
