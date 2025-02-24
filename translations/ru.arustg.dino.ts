@@ -4,22 +4,22 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="19"/>
+        <location filename="../qml/pages/AboutPage.qml" line="20"/>
         <source>About Application</source>
         <translation>About Application</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="29"/>
+        <location filename="../qml/pages/AboutPage.qml" line="30"/>
         <source>#descriptionText</source>
         <translation>&lt;p&gt;Adaptation of a famous browser game for the Aurora OS. No ads.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="34"/>
+        <location filename="../qml/pages/AboutPage.qml" line="35"/>
         <source>3-Clause BSD License</source>
         <translation>3-Clause BSD License</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="44"/>
+        <location filename="../qml/pages/AboutPage.qml" line="45"/>
         <source>#licenseText</source>
         <translation>&lt;p&gt;&lt;i&gt;Copyright (C) 2017 The Chromium Authors. Copyright (C) 2024 arustg.&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:&lt;/p&gt;

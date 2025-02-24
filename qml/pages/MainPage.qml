@@ -2,9 +2,8 @@
 import Sailfish.Silica 1.0
 import Sailfish.WebView 1.0
 
- ApplicationWindow {
-     id: index
-     initialPage:  Page {
+Page {
+     objectName: "mainPage"
      allowedOrientations: Orientation.All
 
     Rectangle {
@@ -20,12 +19,12 @@ import Sailfish.WebView 1.0
                 IconButton {
                     objectName: "aboutButton"
                     icon.source: "image://theme/icon-m-enter-next"
+                    icon.color: Theme.highlightDimmerColor
                      anchors.horizontalCenter: parent.right
                     onClicked: pageStack.push(Qt.resolvedUrl("AboutPage.qml"))
                   }
                ]
            }
         }
-     }
-   }
+    }
 }

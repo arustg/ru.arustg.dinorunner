@@ -2,7 +2,7 @@ import QtQuick 2.0
 import Sailfish.Silica 1.0
 
 CoverBackground {
-    objectName: "defaultCover"
+    objectName: "defaultCoverPage"
 
     Cover {
         id: cover
@@ -20,11 +20,8 @@ CoverBackground {
                 PropertyAnimation {
                     duration: 300
                     from: 0; to: 1
-                }
-
-            }
-
+               }
+           }
         }
     }
-
 }
