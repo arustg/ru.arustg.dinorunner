@@ -41,9 +41,9 @@ Page {
             Button {
                 id: github
                 anchors.horizontalCenter: parent.horizontalCenter
-                text: qsTr("Source Code")
+                text: qsTr("Исходный код")
                 color: Theme.highlightColor
-                onClicked: Qt.openUrlExternally("https://github.com/arustg/harbour-dinorunner");
+                onClicked: Qt.openUrlExternally("https://github.com/arustg/ru.arustg.dinorunner");
             }
 
             Label {
